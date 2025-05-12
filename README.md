@@ -19,7 +19,7 @@ Libft is my first project at 42 School, consisting of recoding various standard 
 Clone the repository and compile the library:
 
 ```bash
-git clone [<repository-url>](https://github.com/matteo-genovese/libft.git)
+git clone https://github.com/matteo-genovese/libft.git
 cd libft
 make
 ```
